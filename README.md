@@ -52,7 +52,7 @@ The system uses a state machine to prevent conflicting commands. Hold gestures f
 
 ### Prerequisites
 
-1. Download all the files from the google drive link below
+1. Download the gesture model from the google drive link below
    https://drive.google.com/drive/folders/143lcgNMuB1ER2t8CXExgNqHvA_XPZiz1?usp=sharing
    
 2. Ensure you have Python installed. This project relies on the following libraries:
@@ -60,5 +60,9 @@ The system uses a state machine to prevent conflicting commands. Hold gestures f
 ```bash
 pip install opencv-python mediapipe numpy tensorflow
 ```
+---
+## Demo Video 
+https://vimeo.com/1162821949?share=copy&fl=sv&fe=ci
+
 
 
