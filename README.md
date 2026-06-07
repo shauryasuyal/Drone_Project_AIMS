@@ -32,7 +32,7 @@ This application uses your webcam to detect hand landmarks and facial features i
 * **Simulated Physics:** Includes inertia, altitude clamps, and auto-landing sequences.
 
 ---
-## 🕹️ Controls & Gestures
+## Controls & Gestures
 
 The system uses a state machine to prevent conflicting commands. Hold gestures for **1 second** to trigger safety locks.
 
